@@ -1,0 +1,99 @@
+id=99 ,data=$ ,weight=3398 ,parent= 0, lc=97 ,rc=98
+id=97 ,data=$ ,weight=1428 ,parent=99, lc=93 ,rc=94
+id=93 ,data=$ ,weight= 661 ,parent=97, lc=87 ,rc=29
+id=87 ,data=$ ,weight= 327 ,parent=93, lc=82 ,rc=43
+id=82 ,data=$ ,weight= 163 ,parent=87, lc=28 ,rc=37
+id=28 ,data=d ,weight=  79 ,parent=82, lc= 0 ,rc= 0
+id=37 ,data=m ,weight=  84 ,parent=82, lc= 0 ,rc= 0
+id=43 ,data=s ,weight= 164 ,parent=87, lc= 0 ,rc= 0
+id=29 ,data=e ,weight= 334 ,parent=93, lc= 0 ,rc= 0
+id=94 ,data=$ ,weight= 767 ,parent=97, lc=88 ,rc=89
+id=88 ,data=$ ,weight= 357 ,parent=94, lc=42 ,rc=83
+id=42 ,data=r ,weight= 170 ,parent=88, lc= 0 ,rc= 0
+id=83 ,data=$ ,weight= 187 ,parent=88, lc=77 ,rc=36
+id=77 ,data=$ ,weight=  92 ,parent=83, lc=49 ,rc=72
+id=49 ,data=y ,weight=  46 ,parent=77, lc= 0 ,rc= 0
+id=72 ,data=$ ,weight=  46 ,parent=77, lc= 1 ,rc=68
+id= 1 ,data=\n ,weight=  23 ,parent=72, lc= 0 ,rc= 0
+id=68 ,data=$ ,weight=  23 ,parent=72, lc=16 ,rc=18
+id=16 ,data=F ,weight=  11 ,parent=68, lc= 0 ,rc= 0
+id=18 ,data=I ,weight=  12 ,parent=68, lc= 0 ,rc= 0
+id=36 ,data=l ,weight=  95 ,parent=83, lc= 0 ,rc= 0
+id=89 ,data=$ ,weight= 410 ,parent=94, lc=25 ,rc=84
+id=25 ,data=a ,weight= 199 ,parent=89, lc= 0 ,rc= 0
+id=84 ,data=$ ,weight= 211 ,parent=89, lc=27 ,rc=78
+id=27 ,data=c ,weight= 100 ,parent=84, lc= 0 ,rc= 0
+id=78 ,data=$ ,weight= 111 ,parent=84, lc=73 ,rc=40
+id=73 ,data=$ ,weight=  53 ,parent=78, lc=69 ,rc= 7
+id=69 ,data=$ ,weight=  24 ,parent=73, lc=63 ,rc=64
+id=63 ,data=$ ,weight=  12 ,parent=69, lc= 6 ,rc=12
+id= 6 ,data=- ,weight=   6 ,parent=63, lc= 0 ,rc= 0
+id=12 ,data=A ,weight=   6 ,parent=63, lc= 0 ,rc= 0
+id=64 ,data=$ ,weight=  12 ,parent=69, lc=15 ,rc=59
+id=15 ,data=E ,weight=   6 ,parent=64, lc= 0 ,rc= 0
+id=59 ,data=$ ,weight=   6 ,parent=64, lc=41 ,rc=55
+id=41 ,data=q ,weight=   3 ,parent=59, lc= 0 ,rc= 0
+id=55 ,data=$ ,weight=   3 ,parent=59, lc=22 ,rc= 3
+id=22 ,data=P ,weight=   1 ,parent=55, lc= 0 ,rc= 0
+id= 3 ,data=! ,weight=   2 ,parent=55, lc= 0 ,rc= 0
+id= 7 ,data=. ,weight=  29 ,parent=73, lc= 0 ,rc= 0
+id=40 ,data=p ,weight=  58 ,parent=78, lc= 0 ,rc= 0
+id=98 ,data=$ ,weight=1970 ,parent=99, lc=95 ,rc=96
+id=95 ,data=$ ,weight= 912 ,parent=98, lc=90 ,rc=91
+id=90 ,data=$ ,weight= 445 ,parent=95, lc=33 ,rc=38
+id=33 ,data=i ,weight= 216 ,parent=90, lc= 0 ,rc= 0
+id=38 ,data=n ,weight= 229 ,parent=90, lc= 0 ,rc= 0
+id=91 ,data=$ ,weight= 467 ,parent=95, lc=39 ,rc=85
+id=39 ,data=o ,weight= 229 ,parent=91, lc= 0 ,rc= 0
+id=85 ,data=$ ,weight= 238 ,parent=91, lc=32 ,rc=79
+id=32 ,data=h ,weight= 114 ,parent=85, lc= 0 ,rc= 0
+id=79 ,data=$ ,weight= 124 ,parent=85, lc=74 ,rc=75
+id=74 ,data=$ ,weight=  59 ,parent=79, lc=70 ,rc=46
+id=70 ,data=$ ,weight=  29 ,parent=74, lc=35 ,rc=65
+id=35 ,data=k ,weight=  14 ,parent=70, lc= 0 ,rc= 0
+id=65 ,data=$ ,weight=  15 ,parent=70, lc=48 ,rc=24
+id=48 ,data=x ,weight=   7 ,parent=65, lc= 0 ,rc= 0
+id=24 ,data=W ,weight=   8 ,parent=65, lc= 0 ,rc= 0
+id=46 ,data=v ,weight=  30 ,parent=74, lc= 0 ,rc= 0
+id=75 ,data=$ ,weight=  65 ,parent=79, lc=47 ,rc=71
+id=47 ,data=w ,weight=  31 ,parent=75, lc= 0 ,rc= 0
+id=71 ,data=$ ,weight=  34 ,parent=75, lc=66 ,rc=67
+id=66 ,data=$ ,weight=  16 ,parent=71, lc=60 ,rc=61
+id=60 ,data=$ ,weight=   8 ,parent=66, lc= 8 ,rc=50
+id= 8 ,data=0 ,weight=   4 ,parent=60, lc= 0 ,rc= 0
+id=50 ,data=z ,weight=   4 ,parent=60, lc= 0 ,rc= 0
+id=61 ,data=$ ,weight=   8 ,parent=66, lc=56 ,rc=57
+id=56 ,data=$ ,weight=   4 ,parent=61, lc=13 ,rc=14
+id=13 ,data=C ,weight=   2 ,parent=56, lc= 0 ,rc= 0
+id=14 ,data=D ,weight=   2 ,parent=56, lc= 0 ,rc= 0
+id=57 ,data=$ ,weight=   4 ,parent=61, lc=51 ,rc=52
+id=51 ,data=$ ,weight=   2 ,parent=57, lc= 4 ,rc= 9
+id= 4 ,data=' ,weight=   1 ,parent=51, lc= 0 ,rc= 0
+id= 9 ,data=1 ,weight=   1 ,parent=51, lc= 0 ,rc= 0
+id=52 ,data=$ ,weight=   2 ,parent=57, lc=10 ,rc=11
+id=10 ,data=5 ,weight=   1 ,parent=52, lc= 0 ,rc= 0
+id=11 ,data=: ,weight=   1 ,parent=52, lc= 0 ,rc= 0
+id=67 ,data=$ ,weight=  18 ,parent=71, lc=23 ,rc=62
+id=23 ,data=T ,weight=   9 ,parent=67, lc= 0 ,rc= 0
+id=62 ,data=$ ,weight=   9 ,parent=67, lc=58 ,rc=34
+id=58 ,data=$ ,weight=   4 ,parent=62, lc=53 ,rc=54
+id=53 ,data=$ ,weight=   2 ,parent=58, lc=17 ,rc=19
+id=17 ,data=G ,weight=   1 ,parent=53, lc= 0 ,rc= 0
+id=19 ,data=L ,weight=   1 ,parent=53, lc= 0 ,rc= 0
+id=54 ,data=$ ,weight=   2 ,parent=58, lc=20 ,rc=21
+id=20 ,data=M ,weight=   1 ,parent=54, lc= 0 ,rc= 0
+id=21 ,data=N ,weight=   1 ,parent=54, lc= 0 ,rc= 0
+id=34 ,data=j ,weight=   5 ,parent=62, lc= 0 ,rc= 0
+id=96 ,data=$ ,weight=1058 ,parent=98, lc= 2 ,rc=92
+id= 2 ,data=  ,weight= 507 ,parent=96, lc= 0 ,rc= 0
+id=92 ,data=$ ,weight= 551 ,parent=96, lc=44 ,rc=86
+id=44 ,data=t ,weight= 251 ,parent=92, lc= 0 ,rc= 0
+id=86 ,data=$ ,weight= 300 ,parent=92, lc=80 ,rc=81
+id=80 ,data=$ ,weight= 146 ,parent=86, lc=30 ,rc=31
+id=30 ,data=f ,weight=  69 ,parent=80, lc= 0 ,rc= 0
+id=31 ,data=g ,weight=  77 ,parent=80, lc= 0 ,rc= 0
+id=81 ,data=$ ,weight= 154 ,parent=86, lc=45 ,rc=76
+id=45 ,data=u ,weight=  77 ,parent=81, lc= 0 ,rc= 0
+id=76 ,data=$ ,weight=  77 ,parent=81, lc= 5 ,rc=26
+id= 5 ,data=, ,weight=  38 ,parent=76, lc= 0 ,rc= 0
+id=26 ,data=b ,weight=  39 ,parent=76, lc= 0 ,rc= 0
